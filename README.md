@@ -55,7 +55,7 @@ Wydawać by się mogło, że kiedy opuszczamy pomieszczenie, możemy ogrzewać j
 Rozważając temperaturę na poziomie "chłodno" otrzymujemy następujące mapy ewolucji ciepła w zależności od ustawienia grzejników pod oknami lub na przeciwległych ścianach:
 
 ![Wykres temperatury](animacja.gif)
-![Wykres temperatury](animacja4(1).gif)
+![Wykres temperatury](animacja4.gif)
 
 Biorąc pod uwagę poziom temperatury "zimno", wygląda to następująco:
 
