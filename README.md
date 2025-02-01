@@ -18,7 +18,7 @@ Do analizy rozkładu ciepła potrzebujemy kilku istotnych założeń
 
 
 *   Temperatura na oknie wynosi tyle samo, co temperatura zewnętrzna
-*   Rozkład dobowy temperatur podzielimy na 3 poziomy: chłodno (między $ 8^o $ C a $ 15^o $ C), zimno ( $ 0^o $ C do $ 8^o $ C) i bardzo zimno ( $ -10^o $ C do $ 0^o $ C) Dokładne dane zostaną wygenerowane przy pomocy Chat GPT do trzech plików typu .csv, gdzie również znajdą się te temperatury przeliczone na stopnie Kelwina oraz podziałka godzinowa (24h podzielone na przedziały o długości 3 minuty)
+*   Rozkład dobowy temperatur podzielimy na 3 poziomy: chłodno (między \( 8^o \) C a $ 15^o $ C), zimno ( $ 0^o $ C do $ 8^o $ C) i bardzo zimno ( $ -10^o $ C do $ 0^o $ C) Dokładne dane zostaną wygenerowane przy pomocy Chat GPT do trzech plików typu .csv, gdzie również znajdą się te temperatury przeliczone na stopnie Kelwina oraz podziałka godzinowa (24h podzielone na przedziały o długości 3 minuty)
 *   Ściany izolują nam temperaturę, temperatura na nich wynosi tyle samo co temperatura obok nich.
 * Wszystkie grzejniki w analizowanym mieszkaniu mają moc 800 W.
 * Za komfortową temperaturę przyjmujemy $ 21^oC $ .
