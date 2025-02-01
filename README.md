@@ -56,3 +56,17 @@ Rozważając temperaturę na poziomie "chłodno" otrzymujemy następujące mapy 
 
 ![Wykres temperatury](animacja.gif)
 
+![Wykres temperatury](animacja4(1).gif)
+
+Biorąc pod uwagę poziom temperatury "zimno", wygląda to następująco:
+
+
+![Wykres temperatury](animacja2.gif)
+
+![Wykres temperatury](animacja5.gif)
+
+Natomiast na poziomie "bardzo zimno":
+
+![Wykres temperatury](animacja3.gif)
+
+![Wykres temperatury](animacja6.gif)
