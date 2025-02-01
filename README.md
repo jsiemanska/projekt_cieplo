@@ -55,18 +55,16 @@ Wydawać by się mogło, że kiedy opuszczamy pomieszczenie, możemy ogrzewać j
 Rozważając temperaturę na poziomie "chłodno" otrzymujemy następujące mapy ewolucji ciepła w zależności od ustawienia grzejników pod oknami lub na przeciwległych ścianach:
 
 ![Wykres temperatury](animacja.gif)
-
 ![Wykres temperatury](animacja4(1).gif)
 
 Biorąc pod uwagę poziom temperatury "zimno", wygląda to następująco:
 
-
 ![Wykres temperatury](animacja2.gif)
-
 ![Wykres temperatury](animacja5.gif)
 
 Natomiast na poziomie "bardzo zimno":
 
 ![Wykres temperatury](animacja3.gif)
-
 ![Wykres temperatury](animacja6.gif)
+
+W każdym tym przypadku możemy zauważyć, że gdy umiejscawiamy grzejnik pod oknem, w pewnym momencie wyłącza się on, rozkład temperatury jest też bardziej równomierny. Gdy patrzymy na przypadki, gdzie grzejniki są na prostopadłych ścianach do okien, widzimy jak rozchodzi się ciepło wokół grzejnika oraz zimno od okna. Temperatura jest mało równomierna.
